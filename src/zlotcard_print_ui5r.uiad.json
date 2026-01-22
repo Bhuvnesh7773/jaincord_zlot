@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Lot Card Print"
+  },
+  "ui5AppDetails": {
+    "appId": "zlotcardprint"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_07937E2C06C1DEE7261316E43F19537F90A84A12_TM",
+    "semanticObject": "zlotcard_print_3",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_07937E2C06C1DEE7261316E43F19537F90A84A12_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Lot Card Print",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}

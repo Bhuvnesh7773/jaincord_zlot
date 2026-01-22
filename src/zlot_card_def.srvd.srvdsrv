@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZLOT_CARD_DEF'
+define service ZLOT_CARD_DEF {
+  expose ZLOT_CARD_CDS    as lotf4;
+  expose ZLOT_TP_PRINT_F4;
+}
